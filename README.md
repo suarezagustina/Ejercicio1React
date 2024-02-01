@@ -1,8 +1,7 @@
-# React + Vite
+## ¿Que es React?
+React es una biblioteca de JavaScript desarrollada por Facebook que se ha convertido en uno de los marcos más utilizados para crear aplicaciones web modernas. Su objetivo principal es permitir a los desarrolladores crear interfaces de usuario rápidas y eficientes para sitios web y aplicaciones.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Librerias 📚
+- [Bootstrap](https://getbootstrap.com/)
+- [React](https://es.react.dev/)
+- [React Bootstrap](https://react-bootstrap.github.io/)
